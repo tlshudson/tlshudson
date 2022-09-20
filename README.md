@@ -1,6 +1,6 @@
 ### Olá, me chamo Hudson Gustavo!
 
-- 🔭 Trabalho como desenvolvedor Back-End!
+- 🔭 Trabalho como desenvolvedor Front-End!
 - 🌱 Atualmente estudo JavaScript
 
 <div align="center">
