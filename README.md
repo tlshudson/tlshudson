@@ -19,7 +19,7 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
           
   
-  <img align="right" alt="hudsonziin" height="150" style="border-radius:50px;" src="https://instagram.fbsb8-1.fna.fbcdn.net/v/t51.2885-19/297335542_864433497865145_3200595487059300587_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbsb8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=6qVaqQxEYKkAX-RrPID&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT9HYp-RHmbBYvtmfyk3dnrZoSyGI5EufAkLDe7kOa6XJA&oe=632235D5&_nc_sid=8fd12b">
+  <img align="right" alt="hudsonziin" height="150" style="border-radius:50px;" src="	https://instagram.fbsb8-2.fna.fbcdn.net/v/t51.2885…h3YIfDD3bV2bHNl9VG07Cw&oe=635DEEE2&_nc_sid=1527a3">
 </div>
 
 #
