@@ -19,7 +19,7 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
           
   
-  <img align alt="Foto do perfil de tlshudson" class="_aa8j" height = "150" crossorigin="anonymous" draggable="false" src="https://instagram.fbsb8-2.fna.fbcdn.net/v/t51.2885-19/311636760_628780425413866_4760661352089078641_n.jpg?stp=dst-jpg_s150x150&amp;_nc_ht=instagram.fbsb8-2.fna.fbcdn.net&amp;_nc_cat=110&amp;_nc_ohc=6WpaidiZc8QAX_5kewx&amp;tn=ZUXJ2SgFWPavEi-O&amp;edm=ACWDqb8BAAAA&amp;ccb=7-5&amp;oh=00_AT-uSylXh0zi4GELcnXbb50Mh3YIfDD3bV2bHNl9VG07Cw&amp;oe=635DEEE2&amp;_nc_sid=1527a3">
+  <img align="Foto do perfil de tlshudson" class="_aa8j" height = "150" crossorigin="anonymous" draggable="false" src="https://instagram.fbsb8-2.fna.fbcdn.net/v/t51.2885-19/311636760_628780425413866_4760661352089078641_n.jpg?stp=dst-jpg_s150x150&amp;_nc_ht=instagram.fbsb8-2.fna.fbcdn.net&amp;_nc_cat=110&amp;_nc_ohc=6WpaidiZc8QAX_5kewx&amp;tn=ZUXJ2SgFWPavEi-O&amp;edm=ACWDqb8BAAAA&amp;ccb=7-5&amp;oh=00_AT-uSylXh0zi4GELcnXbb50Mh3YIfDD3bV2bHNl9VG07Cw&amp;oe=635DEEE2&amp;_nc_sid=1527a3">
 </div>
 
 #
