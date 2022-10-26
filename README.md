@@ -19,7 +19,7 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
           
   
-  <img align="right" alt="hudsonziin" height="150" style="border-radius:50px;" src="[https://instagram.fbsb8-2.fna.fbcdn.net/v/t51.2885…h3YIfDD3bV2bHNl9VG07Cw&oe=635DEEE2&_nc_sid=1527a3](https://instagram.fbsb8-2.fna.fbcdn.net/v/t51.2885-19/311636760_628780425413866_4760661352089078641_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbsb8-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=6WpaidiZc8QAX_5kewx&tn=ZUXJ2SgFWPavEi-O&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AT-uSylXh0zi4GELcnXbb50Mh3YIfDD3bV2bHNl9VG07Cw&oe=635DEEE2&_nc_sid=1527a3)">
+  <img align="right" alt="hudsonziin" height="150" style="border-radius:50px;" src="https://instagram.fbsb8-2.fna.fbcdn.net/v/t51.2885…h3YIfDD3bV2bHNl9VG07Cw&oe=635DEEE2&_nc_sid=1527a3](https://instagram.fbsb8-2.fna.fbcdn.net/v/t51.2885-19/311636760_628780425413866_4760661352089078641_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fbsb8-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=6WpaidiZc8QAX_5kewx&tn=ZUXJ2SgFWPavEi-O&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AT-uSylXh0zi4GELcnXbb50Mh3YIfDD3bV2bHNl9VG07Cw&oe=635DEEE2&_nc_sid=1527a3)">
 </div>
 
 #
