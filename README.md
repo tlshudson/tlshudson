@@ -1,6 +1,6 @@
 ### Olá, me chamo Hudson Gustavo!
 
-- 🔭 Trabalho como desenvolvedor Front-End!
+- 🔭 Trabalho como Dev Full-Stack!
 
 <div align="center">
   <a href="https://github.com/tlshudson">
