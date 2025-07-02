@@ -22,7 +22,7 @@
 #
 
 <p align="center" style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
-  <a href="https://hudsondev.app.netlify" target="_blank">
+  <a href="https://hudsondev.netlify.app/" target="_blank">
     <img alt="Portfólio Hudson" height="30" src="https://img.shields.io/badge/Portfólio-%2312100E?style=for-the-badge&logo=about.me&logoColor=white" />
   </a><a href="mailto:hudsonteles00@gmail.com" target="_blank">
     <img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
