@@ -18,17 +18,14 @@
 
 #
 
-<p align="center">
+<p align="center" style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
   <a href="https://hudsondev.app.netlify" target="_blank">
-    <img alt="Portfolio Hudson" height="30" src="https://img.shields.io/badge/Portfólio-%2312100E?style=for-the-badge&logo=about.me&logoColor=white" />
-  </a>
-  <a href="mailto:hudsonteles00@gmail.com" target="_blank">
-    <img alt="Gmail" height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-  <a href="https://www.linkedin.com/in/hudson-teles-381a451ab/" target="_blank">
-    <img alt="LinkedIn" height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  <a href="https://www.instagram.com/hudsontls_/" target="_blank">
+    <img alt="Portfólio Hudson" height="30" src="https://img.shields.io/badge/Portfólio-%2312100E?style=for-the-badge&logo=about.me&logoColor=white" />
+  </a><a href="mailto:hudsonteles00@gmail.com" target="_blank">
+    <img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a><a href="https://www.linkedin.com/in/hudson-teles-381a451ab/" target="_blank">
+    <img alt="LinkedIn" height="30" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a><a href="https://www.instagram.com/hudsontls_/" target="_blank">
     <img alt="Instagram" height="30" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
