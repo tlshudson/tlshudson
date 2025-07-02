@@ -31,7 +31,7 @@
   <img alt="Instagram" height="30" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-![snake gif](https://github.com/tlshuds/tlshudson/blob/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![snake gif](https://github.com/tlshudson/tlshudson/blob/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 ### 🧑‍💻 Um lema que me inspira:
 
